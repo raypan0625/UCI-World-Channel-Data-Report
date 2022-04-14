@@ -5,10 +5,9 @@ Mashable, an international media platform. There were 61 attributes, 2 non-predi
 used to divide the data into relevant subsets, and there are 58 predictor variables used to
 determine the popularity or number of clicks, each article received. Our target variable was
 “shares”, which described the number of shares an article received.
-Our client, Kaustav, tasked us with performing an exploratory data analysis on the data to
-determine which variables are most “relevant” when it comes to determining an article's
-popularity. Kaustav requested we produce an interpretable model for predicting which variables
-are important for increasing the number of shares an article will receive. Some of the specific
+
+The task is to perform an exploratory data analysis on the data to determine which variables 
+are most “relevant” when it comes to determining an article's popularity. Some of the specific
 variables he was interested in were sentiment, LDA, media, and days of the week. Off the bat,
 we did find those variables to be important, but we will get into that further in the next section of
 our report. Additionally, after looking at the variables, we found that many variables relate to the

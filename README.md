@@ -16,3 +16,6 @@ unique words, and keywords, as well as described the number of references, media
 length used in the article. We also saw that variables described when the article was posted, their
 closeness to specified topics, as well as information regarding the sentiment and polarity of the
 article.
+
+## Methods
+Data cleaning, statistical modelling, visualization, variable selection
